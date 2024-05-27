@@ -326,3 +326,86 @@ Model-Based Image Inpainting![image inpainting](image_inpainting.png)
     - ***SC-FEGAN:*** Face Editing Generative Adversarial Network With User's Sketch and Color [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf) [[Code]](https://github.com/run-youngjoo/SC-FEGAN)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
+
+
+<!-- omit in toc -->
+## Conventional Methods
+- <span id="conventional-year-2024">**Year 2024**</span>
+  - **arXiv**
+    - ***HySim:*** An Efficient Hybrid Similarity Measure for Patch Matching in Image Inpainting [[Paper]](https://arxiv.org/pdf/2403.14292.pdf)
+- <span id="conventional-year-2020">**Year 2020**</span>
+  - **TIP**
+    - Image Inpainting Using Nonlocal Texture Matching and Nonlinear Filtering [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8531678)
+    - Truncated Low-Rank and Total p Variation Constrained Color Image Completion and its Moreau Approximation Algorithm [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141413)
+- <span id="conventional-year-2019">**Year 2019**</span>
+    - Multiple Pyramids Based Image Inpainting Using Local Patch Statistics and Steering Kernel Feature [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733204)
+- <span id="conventional-year-2018">**Year 2018**</span>
+  - **TIP**
+    - A Group-Based Image Inpainting Using Patch Refinement in MRF Framework [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8089766)
+- <span id="conventional-year-2016">**Year 2016**</span>
+  - **CVPR**
+    - Multiview Image Completion with Space Structure Propagation [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Baek_Multiview_Image_Completion_CVPR_2016_paper.pdf)
+  - **TIP**
+    - Image Inpainting Through Metric Labeling via Guided Patch Mixing [[Paper]](https://ieeexplore.ieee.org/document/7559711)
+- <span id="conventional-year-2011">**Year 2011**</span> 
+  - **ICIG**
+    - Structure-Aware Image Completion with Texture Propagation [[Paper]](https://ieeexplore.ieee.org/document/6005583)
+- <span id="conventional-year-2005">**Year 2005**</span> 
+  - **TIP**
+    - Edge-Based Image Restoration [[Paper]](https://ieeexplore.ieee.org/document/1510681)
+  - **SIGGRAPH**
+    - Image Completion with Structure Propagation [[Paper]](https://jiaya.me/file/all_final_papers/ImageCompletion_SIGGRAPH05.pdf)
+- <span id="conventional-year-2004">**Year 2004**</span> 
+  - **TIP**
+    - Region Filling and Object Removal by Exemplar-Based Image Inpainting [[Paper]](https://www.irisa.fr/vista/Papers/2004_ip_criminisi.pdf)
+- <span id="conventional-year-2000">**Year 2000**</span> 
+  - **SIGGRAPH**
+    - Image Inpainting [[Paper]](https://dl.acm.org/doi/pdf/10.1145/344779.344972)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# Survey Papers
+- [IJCV 2024] Deep Learning-based Image and Video Inpainting: A Survey [[Paper]](https://arxiv.org/pdf/2401.03395.pdf)
+- [Pattern Recognit. 2023] Deep Learning for Image Inpainting: A Survey [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S003132032200526X)
+
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# Datasets
+- ***Paris StreetView:*** Context Encoders: Feature Learning by Inpainting [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf) [[Code]](https://github.com/BoyuanJiang/context_encoder_pytorch) _(Since Google's terms of service has forbidden anyone from creating repositories of streetview data, the dataset is currently not available.)_
+- ***Places***: A 10 Million Image Database for Scene Recognition [[Paper]](http://places2.csail.mit.edu/PAMI_places.pdf) [[Dataset]](http://places2.csail.mit.edu/download.html)
+- ***ImageNet***: A Large-Scale Hierarchical Image Database [[Paper]](https://image-net.org/static_files/papers/imagenet_cvpr09.pdf) [[Dataset]](https://www.image-net.org/)
+- ***CelebA-HQ:*** Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Paper]](https://openreview.net/pdf?id=Hk99zCeAb) [[Dataset]](https://github.com/suvojit-0x55aa/celebA-HQ-dataset-download)
+- ***FFHQ:*** A Style-Based Generator Architecture for Generative Adversarial Networks [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) [[Dataset]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+
+<!-- omit in toc -->
+# Q&A
+- **Q: The conference sequence of this paper list?**
+  - This paper list is organized according to the following sequence:
+    - Conferences
+      - CVPR
+      - CVPRW
+      - ICCV
+      - ICCVW
+      - ECCV
+      - AAAI
+      - IJCAI
+      - WACV
+      - NeurIPS
+      - ICLR
+      - ACM MM
+      - SIGGRAPH
+      - IPTA
+    - Journals
+      - TMM
+      - TIP
+      - TPAMI
+      - TCSVT
+    - arXiv
+
+[<u><small><🎯Back to Top></small></u>](#contents)
