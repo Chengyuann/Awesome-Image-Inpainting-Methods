@@ -7,7 +7,7 @@
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Chengyuann.Awesome-Anomalous-Sound-Detection-Methods)](https://visitor-badge.laobi.icu/badge?page_id=Chengyuann.Awesome-Anomalous-Sound-Detection-Methods)
 
 
-Model-Based Image Inpainting![image inpainting](image_inpainting.png)
+![image inpainting](image_inpainting.png)
 
 <!-- omit in toc -->
 # Papers
