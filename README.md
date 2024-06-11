@@ -19,6 +19,7 @@ Model-Based Image Inpainting![image inpainting](image_inpainting.png)
     - ***MaGIC:*** Multi-modality Guided Image Completion [[Paper]](https://openreview.net/pdf?id=o7x0XVlCpX) [[Code]](https://github.com/yeates/MaGIC)
   - **arXiv**
     - Outline-Guided Object Inpainting with Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.16421.pdf)
+    - ATask is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting [[Paper]](https://arxiv.org/pdf/2312.03594v3)[[Code]](https://powerpaint.github.io/) [[Project]]
     - ***DesignEdit:*** Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing [[Paper]](https://arxiv.org/pdf/2403.14487.pdf) [[Code]](https://github.com/design-edit/DesignEdit) [[Project]](https://design-edit.github.io/)
     - ***BrushNet:*** A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion [[Paper]](https://arxiv.org/pdf/2403.06976) [[Code]](https://github.com/TencentARC/BrushNet) [[Project]](https://tencentarc.github.io/BrushNet/) [[Demo]](https://huggingface.co/spaces/TencentARC/BrushNet) [[Video]](https://drive.google.com/file/d/1IkEBWcd2Fui2WHcckap4QFPcCI0gkHBh/view?usp=sharing)
 - <span id="text-year-2023">**Year 2023**</span> 
